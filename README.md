@@ -1,4 +1,4 @@
-# Simmer-Button
+# Shimmer-Button
 
 ## Overview
 The Shimmer-Button project is a creative endeavor to implement a button with a shimmer effect using web technologies. It is designed to work exclusively in Chromium-based browsers due to its use of custom properties.
