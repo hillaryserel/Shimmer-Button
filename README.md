@@ -15,5 +15,5 @@ To use the Shimmer-Button in your project, simply include the `style.css` and `s
 ```html
 <button>
     <span class="text">Shimmer Button BY Hillary Serel</span>
-    <span class="simmer"></span>
+    <span class="shimmer"></span>
 </button>
